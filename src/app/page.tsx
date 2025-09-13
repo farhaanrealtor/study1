@@ -4,7 +4,7 @@ export default function Home() {
       {/* Hero Section */}
       <section className="mx-auto max-w-6xl px-6 py-24 text-center">
         <h1 className="text-5xl font-extrabold tracking-tight text-gray-900 sm:text-7xl">
-          <span className="block text-indigo-600">iLoveBroker</span>
+          <span className="block text-red">ilovebroker</span>
           Your All-in-One Real Estate Platform
         </h1>
         <p className="mx-auto mt-6 max-w-2xl text-lg text-gray-600">
@@ -93,7 +93,7 @@ export default function Home() {
       {/* Call to Action */}
       <section className="bg-indigo-600 py-20 text-center text-white">
         <h2 className="text-4xl font-extrabold">
-          Ready to take your brokerage to the next level?
+          Ready to take your Real Estate Business to the next level?
         </h2>
         <p className="mt-4 text-lg">
           Join thousands of brokers using iLoveBroker to grow their business.

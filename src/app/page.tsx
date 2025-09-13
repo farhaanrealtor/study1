@@ -4,7 +4,7 @@ export default function Home() {
       {/* Hero Section */}
       <section className="mx-auto max-w-6xl px-6 py-24 text-center">
         <h1 className="text-5xl font-extrabold tracking-tight text-gray-900 sm:text-7xl">
-          <span className="block text-red">ilovebroker</span>
+          <span className="block text-red-600">ilovebroker</span>
           Your All-in-One Real Estate Platform
         </h1>
         <p className="mx-auto mt-6 max-w-2xl text-lg text-gray-600">
